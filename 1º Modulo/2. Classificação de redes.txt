@@ -1,0 +1,51 @@
+		
+	CLASSIFICAÇÃO DE REDES
+
+
+		1. Nanorede - utiliza uma conexão de radiofrequencia ou molecular
+		
+		2. NFC (Near Field Communication)  Comunicação de campo próximo
+
+			Usa dispositivos de RFID (identificação por radio frequencia) 
+
+		3. BAN (Body Area Network) 
+			
+			Rede de Area Corporal - Utiliza sensores corporais
+
+		4. PAN (Personal Area Network) - Rede de área pessoal
+
+			Ex. Bluetooth 
+
+		5. NAN (Near-me Area Network) 
+			
+			Rede de Área próxima a mim. 
+
+		6. LAN (Local Area Network)
+
+			Rede de Área Local
+
+		7. WLAN (Wireless Local Area Network) 
+
+			Rede de área local sem fio
+
+		8. HAN (Home Area Network) 
+
+		
+		9. SAN (Storage Area Network) 
+			
+			Barramento que conecta vários Dispositivos de armazenamento a um servidor. 
+		
+		10. CAN (Campus Area Network) 
+
+			Ex. Rede de campus universitário, 
+
+		11. MAN (Metropolitan Area Network) 
+
+		
+		12. WAN (Wide Area Network) 
+
+		13. GAN (Global Area Network) 
+
+		14. IAN (Internet Area Network)
+
+		15. Rede Interplanetária.

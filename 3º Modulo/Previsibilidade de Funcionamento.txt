@@ -1,0 +1,14 @@
+	
+
+	REDES DETERMINISTICAS
+
+		Sabe-se quando os pacotes de dados serão recebidos, é previsivel o funcionamento da rede.
+
+
+	
+	REDES PROBABILISTICAS, ESTATISTICAS OU ALEATÓRIAS
+
+		Não se sabe quando os pacotes de dados serão recebidos, NÃO é previsivel o funcionamento da rede.
+
+	
+	

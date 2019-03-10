@@ -1,0 +1,31 @@
+	
+	TAXA DE TRANSFERENCIA
+
+
+
+		bps - bits por segundo
+
+			Evite usar b/s
+
+		B/s - Bytes por segundo
+
+			1 B/s = 8bps
+
+	
+	Essas unidades de medida veio de trasnmissões em série. 
+
+	Largura de Banda
+
+	LB = nº de bits por vez x clock = n bps
+
+	LB = nº de bits por vez x clock / 8 = n B/s
+
+	LB = nº de bytes por vez x clock = n B/s
+
+	LB = nº de bytes por vez x clock x 8 = n bps
+ 
+
+	
+	
+
+

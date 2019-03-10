@@ -1,0 +1,33 @@
+	
+
+	MODOS DE TRANSMISSÃO 
+
+	SIMPLEX (SX)
+
+	Comunicação unidirecional na qual apenas o transmissor pode enviar sinais para o receptor; 
+
+	transmissor -> receptor 
+
+
+	HALF-DUPLEX	(HDX)
+
+	Comunicação bidirecional, de modo que a comunicação não pode ser feita ao mesmo tempo;
+
+	A -> B
+	B -> A
+
+	Exemplo; radio
+
+	transmissor <-> receptor (Onde o receptor se torna o transmissor)
+
+	
+	FULL DUPLEX (FDX)
+
+
+	Comunicação bidirecional, de modo que a comunicação pode ser feita ao mesmo tempo;
+	
+	transmite e recebe dados ao mesmo tempo; 
+
+	Exemplo; Telefone
+	
+	

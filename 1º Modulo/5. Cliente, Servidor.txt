@@ -1,0 +1,24 @@
+	
+		
+	COMPUTAÇÃO DISTRIBUÍDA
+
+		
+		Cada dispositivo tem o seu proprio poder de processamento; 
+
+		Nesse modelo não há terminal burro
+
+	
+	MODELO: REDE CLIENTE/SERVIDOR
+		
+		Servidor: Um dispositivo que oferece recursos para rede, pode disponibilizar: 
+
+			- arquivos
+			- e-mail
+			- Web (Sites)
+			- Banco de dados
+
+		Cliente: Um dispositivo que está requisitando dados de um servidor;
+			
+		
+
+		

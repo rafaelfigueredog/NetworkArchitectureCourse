@@ -1,0 +1,24 @@
+	
+	
+	SERVIDOR PROXY
+
+	
+	É um servidor intermediário entre o cliente e servidor; 
+
+		Exemplo de aplicações praticas. 
+
+			1. Cache - serve para acelerar o carregamento de alguma coisa; 
+			2. Mascarar o endereço IP - 
+				
+				Problemas: 
+					
+					- Deixa a conexão mais lenta;
+					- Diminui a segurança de dados visto que você está acessando uma rede não local
+				
+	
+	SERVIDOR PROXY REVERSO
+
+		
+		
+
+			

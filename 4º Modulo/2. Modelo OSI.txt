@@ -1,0 +1,31 @@
+MODELO OSI
+
+    Pra facilitar o entedimento e o funcionamento dos protocolos o modelo OSI divide os protocolos em camadas
+
+    Aplicação
+
+    7 - Aplicação
+    6 - Apresentação
+    5 - Sessão
+    4 - Transporte
+    3 - Rede
+    2 - Link de Dados 
+    1 - Física
+
+    Meio
+
+    O processo de transferencia de camada por camada, será chamado de emcapsulamento
+
+    CLASSIFICAÇÃO
+
+    Alto NÍVEL
+        camadas: 7, 6, 5
+    
+    Transporte:
+        camada: 4
+    
+    Baixo NÍVEL:
+        camadas: 3, 2, 1
+
+    As Camadas 1 e 2 referem-se a arquitetura de rede que está sendo usada
+    Ver imagem Representação das Camadas

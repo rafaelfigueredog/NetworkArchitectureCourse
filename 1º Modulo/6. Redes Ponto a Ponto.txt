@@ -1,0 +1,24 @@
+	
+
+	REDES PONTO A PONTO
+
+	
+		Cada dispositivo pode ser as vezes cliente ou servidor. Não há um serviço de diretório. 
+		ou um administrador central nesse tipo de rede. 
+
+	
+	REDES FRONT-END/BACK-END
+
+		É um tipo de rede cliente/servidor, onde um servidor consulta outro servidor antes de enviar uma requisição, desse modo, o primeiro servidor é o front-end, o segundo back-end.
+
+			Exemplo:
+				
+				Requisição
+				
+				Cliente -> internet -> servidor-web -> servidor de Banco de Dados
+
+				Servidor de Banco de dados -> Servidor WEB -> internet -> Cliente
+				
+	
+
+	

@@ -1,0 +1,30 @@
+	
+
+METODOS DE TRANSMISSÃO
+
+{
+
+	PARALELA:
+
+		Desvantagens:
+		
+			- Necessita de um fio para cada pit; 
+			- Resultado muitos fios
+			- Atraso 
+			- Interferencia
+
+
+	EM SÉRIE:
+
+		Redes normalmente usam esse tipo de transmissão
+
+
+		Vantagem: 
+
+			- Necessita de apenas um fio
+}
+
+
+É MITO: 
+
+	Transmissão em paralela sempre é mais rápido que em série. (Errado)

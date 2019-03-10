@@ -1,0 +1,53 @@
+	
+	(...) ANTES: proxy direto, falado na aula passada, auxilia cliente acelerando carregamento de dados ou até mesmo mascatando o ip. 
+
+
+		PROXY REVERSO: 
+
+			Também é um intermediário entre cliente/servidor
+
+			Auxilia o servidores
+
+			
+			 - firewall (servidor proxy reverso) 
+					
+					Funciona como um filtro de pacotes de dados;
+
+			- Sistema de balanciamento de carga
+	
+
+				Distribui as requisições para vários servidores; 
+
+			
+			- CDN Content Delivery Network ou Rede de Entrega de Conteúdo
+			
+			Exemplos de Empresas que oferencem este serviço:
+				
+				- CloudFlare
+				- Akamai
+				- Amazon CloudFront
+
+
+		Sistema de distribuição geografica de modo que o cliente acessa o servidor mais proximo de acordo com sua localização geográfica; Acelera a Distribuição usando um cache local. 
+
+
+			- Sistema de Cache
+				
+				Entregar recursos como imagens e versão estatica (já processada) de arquivos dinamicos.
+		
+				Recursos Estáticos: (não precisam de processamento)
+
+				ex. Imagens
+
+				Recursos Dinamicos: (precisam de processamento)
+
+				ex. scripts PHP
+
+				 
+
+
+
+
+			
+
+		

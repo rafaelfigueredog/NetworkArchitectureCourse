@@ -1,0 +1,11 @@
+	
+
+	COMPUTAÇÃO CENTRALIZADA
+
+	Quando acessamos um mainframe atraves de algum terminal de modo que todo processamento é feito pela unidade central de processamento. 
+
+	Telnet - não usa criptografia
+
+	SSH é um telnet porém com criptografia
+
+	

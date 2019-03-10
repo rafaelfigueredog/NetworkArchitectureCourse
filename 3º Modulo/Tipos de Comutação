@@ -1,0 +1,26 @@
+	
+	
+	COMUTAÇÃO POR CIRCUITO 
+
+		- Usa sempre o mesmo caminho
+		- Pacores chegam em Ordem
+		- Previsibilidade de Funcionamento
+		- Velocidade Fixa
+
+	SVC - Switched Virtual Circuit
+		
+		Usa como base comutação por pacotes.
+
+	Redes:
+
+	COMUTAÇÃO POR PACOTES
+
+		- Não há previsibilidade
+		- Caminhos não são pré-determinados
+		- Pacotes podem chegar Fora de Ordem
+		- Velocidade não é Garantida
+
+	
+
+
+	

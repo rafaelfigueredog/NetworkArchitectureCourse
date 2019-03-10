@@ -1,0 +1,26 @@
+
+	
+	COMPUTAÇÃO EM NUVEM
+
+		
+	Um tipo de rede cliente servidor onde os dados são processados ou armazenados em algum servidor de modo que o usuario não sabe exatamente onde o servidor está fisicamente. 
+	
+
+	COMPUTAÇÃO DISTRIBUÍDA OU COOPERATIVA
+
+	Permite dividir uma carga de processamento em vários computadores ou servidores ou unidades de processamento, e no final você tem um maior poder de processamento juntando os dados.
+
+		COMPUTAÇÃO EM CLUSTER
+
+		Diversos computadores interligados como um software para dividir processamento. Geralmente todos os computadores pertecem a uma mesma organização.
+		
+		
+		COMPUTAÇÃO EM GRADE
+
+		O mesmo conceito de computação em cluster porém os computadores estão espalhados 
+
+
+		
+
+
+		

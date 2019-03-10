@@ -1,0 +1,28 @@
+	
+
+	SINCRONIA
+
+	CLOCK um sinal extra que indica para o transmissor o momento de enviar o dado e o momento de receptor captar os dados  
+
+	PULSO DE CLOCK 
+		
+	A ................................ B
+										
+										PULSO DE CLOCK 
+
+	Transmissões Sincronas 
+		
+		- Usa Sinal de Clock separado (canal de controle)
+		- Circuito mais complexo
+		- Maior Eficiencia (mais dados transmitidos)
+
+	Transmissões Asincronas 
+
+		- Não Sinal de Clock
+		- Circuito mais simples (mais Barato)
+		- menor Eficiencia (menos dados transmitidos)
+
+	Sendo um sinal extra precisaria de um fio extra, sendo inviável (Também chamada sincronia fora de 		Banda) 
+
+	Na pratica é usada uma sicronia in Band (através do canal de comunicação)
+	No geral é feita através da codificação de dados; 

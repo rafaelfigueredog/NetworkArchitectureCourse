@@ -1,0 +1,14 @@
+
+	CONFIRMAÇÃOO DE RECEBIMENTO DE PACOTE
+
+		
+	T >>>>>>> PACOTE >>>>>> R
+
+	T <<<<<<< PAC-ACK <<<<< R
+
+
+	ACK = Acknowledge (Confirmação de Recebimento do Pacote) 
+
+	Se T não receber ACK ele vai reenviar o patote até receber; 
+
+	

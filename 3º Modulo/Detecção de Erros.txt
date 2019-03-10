@@ -1,0 +1,26 @@
+	
+
+	Detecção de Erros: 
+
+
+	Primeiro Metodo: Reenvio dos dados pelo trasmissor 
+	e comparação desses dados pelo Recepitor
+
+
+	PARIDADE:
+
+	1 0 1 0 0 1 1 1 0 1 1 0 (1) Bit de paridade (Arquitetura de Computadores) 
+	Não é usado hoje em dia
+
+
+	SOMA DE VERIFICAÇÃO: (checksum)
+
+	Soma de verificação de todos os dados
+
+	CRC Verificação de Redundancia Ciclica
+
+	Similar a checksum porém é feita uma divisão dos valores em uma divisão de peolinômio
+	
+
+	
+	

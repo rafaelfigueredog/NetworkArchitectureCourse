@@ -1,0 +1,32 @@
+CAMADA DE REDE
+
+    Responsável por receber os segmentos das camadas de transporte
+    e divide em vários pacotes de dados menores evitando o 
+    congestionamento de REDE
+
+    Na pilha TCP/IP o protocolo responsáel por isso é o IP
+
+        Os pacotes gerados são chamados de DATAGRAMA
+            - não possui confirmação de recebimento
+            - A camada superior é responsável por confirmar o recebimento
+
+
+    ENDEREÇAMENTO EM REDES:
+
+        EXISTEM 2 TIPOS; 
+
+            - LÓGICO (configurável)
+            - FÍSICO ("amarrado" ao dispositivo)
+
+    Outros Protocolos importantes desta camada
+
+        ARP - protocolo de resolução de endereçamento
+        RARP - Protocolo de Resolução de endereço reverso
+        (também trabalham na camada 2 
+        pois acessam endereçamento fisico)
+
+    ROTEADORES 
+
+        - São equipamentos responsáveis por interconectar redes
+        - Trabalham na camada 3 do Modelo OSI
+        - E decifram o endereçamento logico dos datagramas

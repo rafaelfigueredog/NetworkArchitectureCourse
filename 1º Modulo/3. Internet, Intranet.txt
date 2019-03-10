@@ -1,0 +1,21 @@
+
+
+	Internet
+		
+		Def. Rede de alcance global, publica. Disponibiliza acesso a:
+			
+			Recursos mais usados
+			- e-mail
+			- www (World Wide Web)
+			- ftp
+
+	Intranet
+
+		Def. Rede local privada.
+
+		Funciona como uma internet de modo que os recursos são locais. 
+
+
+	Intranet
+
+		É uma intranet que permite acesso do lado de fora da rede. (acesso remoto) 

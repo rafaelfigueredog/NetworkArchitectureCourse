@@ -1,0 +1,13 @@
+
+	PROTOCOLOS
+
+	É uma linguagem de comunicação entre o transmissor e o receptor
+
+	O receptor remonta os dados corretamente justamente a partir dos protocolos 
+
+	Um Exemplo:
+
+		TCP/IP (mais usado)
+		FTP 
+		HTTP
+		SMTP

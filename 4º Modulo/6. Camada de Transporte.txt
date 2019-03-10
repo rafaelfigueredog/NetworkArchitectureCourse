@@ -1,0 +1,18 @@
+Camada de Transporte
+
+    Camada responsável por dividir os dados em pacotes de dados chamados
+    de segmentos
+
+        Inserindo:
+
+            - Informações de Controle
+                - Cabeçario e Rodapé
+                - numeração
+
+        Na Pilha TCP/IP temos dois protocolos de transporte
+
+            TCP - confirma o recebimento
+            UDP - não confirma o recebimento
+
+        
+        

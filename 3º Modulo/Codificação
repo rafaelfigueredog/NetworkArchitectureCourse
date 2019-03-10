@@ -1,0 +1,49 @@
+
+
+	CODIFICAÇÃO
+
+
+	É utilizado antes de enviar os bits de dados na rede com intuito de otimizar a transmissão;
+
+		1º Objetivo; criar sincronia
+		2º Objetivo; espaçar sequencias muito longas de zeros e uns. 
+
+		
+		Codificação NRZ (Non Return Zéro)
+
+			1 Nivel Logico Alto
+			0 Nivel Lógico Baixo
+
+		Codificação NRZI (Non Return Zero Inverted)
+
+			1 Inverte o Nivel Logico
+			0 Mantém Nivel Logico Anterior
+
+		
+		Codificação Manchester
+
+			Usada em Redes Ethernet a 10 Mbps
+			Tem apenas 50% de eficiencia 
+			porque tem o dobro do clock gerado pelas inversões.
+
+	
+
+		HOJE EM DIA:
+
+
+			CODIFICAÇÕES
+
+			Pegam grupos de bits e convertem em um grupo maior de bits
+
+			4B / 5B
+			8B / 10B
+
+			
+
+			
+			
+
+
+	 
+
+	

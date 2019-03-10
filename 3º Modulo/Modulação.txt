@@ -1,0 +1,12 @@
+	
+
+	MODULAÇÃO
+
+	Conversão dos bits codificados e converte-los em um formato analógico;
+
+	Como por exemplo uma tensão;
+
+	
+
+
+	

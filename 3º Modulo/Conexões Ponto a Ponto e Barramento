@@ -1,0 +1,50 @@
+	
+
+	CONEXÕES PONTO A PONTO E BARRAMENTO
+
+
+	Para fazer a ligação entre dispositivos você tem basicamente duas opções:
+
+		1. Conexão ponto a ponto (não tem haver com redes ponto a ponto) 
+
+				A <----> B
+				C <----> D
+		
+			É inviavel quando se precisa fazer conexão entre vários dispositivos ao mesmo tempo; 
+
+
+		
+		2. Barramento
+
+
+			Compartilhamento de Canal entre vários dispotivos; 
+
+
+					B
+			A <-----|------> C
+					D			
+			
+			Vantagem, mais barato 
+
+			Desvantagem, quando o canal está ocupado nennhum outro canal pode ser utilizado; 
+
+			No cabeçario do pacote de dados deve haver  um campo chamado Endereçamento uma vez que todos os dispositivos da rede recebem o pacote de dados. 
+
+
+		TIPO DE MENSAGEM: 
+
+
+		- UNICAST (unico destinatário)
+
+		
+		- MULTICAST (vários destinatários)
+
+		
+		- BROADCAST (para todos os dispositivos)
+
+	
+
+
+
+
+			

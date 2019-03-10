@@ -1,0 +1,12 @@
+Camada Sessão
+    
+    Cria uma Sessão entre o transmissor e o receptor
+
+    Cria um ambiente entre o transmissor e o receptor
+    de modo que, se a camunicação for perdida, ela pode ser reestabelecida 
+    no mesmo ponto que parou. 
+
+        Exemplos: 
+
+            Na pratica essa camada não é implementada separadamente,
+            normalmente se encontra no protocolo TCP/IP

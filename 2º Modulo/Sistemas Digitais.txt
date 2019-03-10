@@ -1,0 +1,32 @@
+	
+	SINAIS DIGITAIS
+
+	São enviados apenas numeros em formado binario. 
+
+	Numeros Binários são compostos apenas por:
+		
+		0 
+		1
+
+	bit - binary digit
+	
+	Qualquer valor diferente disso NÃO será processado pelo recepitor.
+
+
+	Porque redes utilizam o sistema binarios, digital? 
+
+	R: Para facilitar o envio de dados, a limitação na variação dos dados permite que a transmissão seja mais eficiente
+	
+
+	SINAIS ANALOGICOS
+
+	São enviados sinais, por isso, nos sinais analogicos podem haver ruidos ou variações, já nos sistemas digitais não.. 
+
+	
+
+	A GRANDE DIFERENÇA:
+
+
+	Sinais digitais são transmitidos apenas numeros. É possivel o transmissor enviar uma informação de controle para o receptor. (o receptor tem como saber se o que foi enviado está correto ou não)
+	
+	Sinais analogicos são transmitidos o sinal puro 

@@ -1,0 +1,29 @@
+	
+	ACESSO AO MEIO
+
+	
+	METODOS:
+
+	
+	1º Met. CONTENÇÃO (usado em Ethernet e Wi-fi), (Mais Comum)
+
+	O meio vai ser usado pelo dispositivo que acessar primeiro. Os outros dispositivos precisam aguardar; não é possivel saber quando o dispositivo terá acesso 
+	 
+	
+	2º Met. PASSAGEM DE FICHA (usado em redes do tipo Token Ring e FDDI) 
+
+	Redes de topologia em Anel
+	
+	Cada computador sabe exatamente qual é o momento que ele vai acessar a rede (quando a ficha chegar)
+
+
+	3º Met. VARREDURA POLLING (usado em redes sem fio Wi-fi modo QoS ativado)
+
+	Elemento Central ARBITRADOR que define qual dispositivo vai ter acesso ao meio, Cada computador sabe exatamente qual é o momento que ele vai acessar a rede.
+
+	Também possivel sem Arbitrador, os dispositivos se comunicam entre si através de pacotes de dados de controle. 
+
+
+	
+
+	

@@ -1,0 +1,12 @@
+
+
+	VIRTUAL PRIVATE NETWORK
+
+	É o acesso remoto a uma rede privada; 
+
+	Permite que dois computadores utilizando uma rede pública possam se onectar de forma segura. 
+
+	
+
+	
+	 

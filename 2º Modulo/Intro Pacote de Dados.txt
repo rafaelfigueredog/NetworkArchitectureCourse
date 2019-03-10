@@ -1,0 +1,30 @@
+	
+
+	Com N bits disponiveis qual é a faixa de numeros em decimal que a gente consegue representar?
+
+	R: 0 a (2^n - 1)
+
+	Ex. 8 bits disponíveis
+
+	2^8 = 256 Faixa: 0 a 255
+
+	
+	(...) PACOTE DE DADOS
+	
+
+	Dados são transmitidos numa rede através de uma estrutura chamada pacote de dados
+
+	
+	Um PACOTE DE DADOS é formado por: 
+
+		- cabeçalho  (São transmitidas as informações de controle a respeito do pacote)
+		- Área de Dados (Area de dados, parte de arquivo, email, etc. )
+
+
+	CABEÇALHO
+
+	É FORMADO POR CAMPOS: 
+
+		- CAMPO 1
+		- CAMPO 2
+		- CAMPO N ex. (Tamanho da Area de Dados)

@@ -1,0 +1,11 @@
+CAMADA DE APLICAÇÃO
+
+    Faz a interface direta com aplicativos do transmissor e receptor
+
+    EX. 
+
+    HTTP - Protocolo de Transferência de documentos Hipertexto
+    DNS - Sistema de Nomes de Dominio
+    SMTP - Protocolo de Email
+    FTP - Protocolo de Transferência de Arquivos
+
