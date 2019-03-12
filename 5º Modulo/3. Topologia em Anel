@@ -1,0 +1,15 @@
+
+    Topologia na qual os dispositivos da rede estão 
+    conectados em forma de anel. 
+
+    Os dados trafegam na rede através de uma 
+    ficha que circula no anel até encontrar o destinatário dos dados
+
+    É usada em redes do tipo 
+
+        - Token Ring 
+        - FDDI
+        - Industriais
+
+    O Grande Problema:
+        Se o cabo partir toda a rede é perdida

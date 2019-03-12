@@ -15,10 +15,10 @@ CAMADA DE REDE
 
         EXISTEM 2 TIPOS; 
 
-            - LÓGICO (configurável)
+            - LÓGICO (configurável) [Endereço IP]    
             - FÍSICO ("amarrado" ao dispositivo)
 
-    Outros Protocolos importantes desta camada
+    Outros Protocolos que trabalham no endereçamento fisico ou lógico
 
         ARP - protocolo de resolução de endereçamento
         RARP - Protocolo de Resolução de endereço reverso

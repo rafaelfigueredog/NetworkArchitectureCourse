@@ -2,12 +2,14 @@ CAMADA DE APRESENTAÇÃO
 
     É a camada de conversão de dados, compressão de dados e criptografia
 
+    * Tem por objetivo resolver problemas de representação de 
+    informação existentes entre sistemas heterogêneos interconectados. 
+    Envolve o formato dos dados, o formato das informações.
+
     obs: 
 
-        criptografia pode ser feita em outras camadas. 
+        Criptografia pode ser feita em outras camadas. 
 
     Exemplos de criptografia feitas na camada de APRESENTAÇÃO
 
         SSL  - Protocolo de Criptografia
-
-    

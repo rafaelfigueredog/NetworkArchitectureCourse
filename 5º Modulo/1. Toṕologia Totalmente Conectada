@@ -1,0 +1,16 @@
+
+    Topologia TOTALMENTE CONECTADA
+
+        Um cabo partindo de cada computador para outro 
+
+            Ex: se eu tenho 5 computadores uma rede cada um teria 4 cabos
+            partindo para outros computadores; 
+
+            DESVANTAGEM: 
+            
+                - Numero de cabos [ cabos = n x (n-1) ]
+
+            VANTAGEM: 
+
+                - Redundancia
+                    Se um cabo partir existem caminhos alternativos.

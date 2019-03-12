@@ -3,6 +3,9 @@ Camada de Link de Dados
     Também chamada de Enlace de Dados, prepara os quadros ou células 
     celulas que serão enviados efetivamente para o meio
 
+    *Tem por ojetivo realizar a transferencia de dados sobre
+    uma conexão física de maneira confiável;
+
     A celula tem sempre o tamanho fixo, 
 
     NA prática a pilha TCP/IP só trabalha da camada 3 a camada 7 do modelo OSI
@@ -13,4 +16,4 @@ Camada de Link de Dados
 
         O endereçamento físico é chamado de MAC
 
-        
+    Nessa camada trabalha o Switch

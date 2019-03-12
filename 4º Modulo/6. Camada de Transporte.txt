@@ -1,8 +1,8 @@
 Camada de Transporte
 
     Camada responsável por dividir os dados em pacotes de dados chamados
-    de segmentos
-
+    de segmentos, garantir que os dados cheguem sem erros e na sequencia correta
+    
         Inserindo:
 
             - Informações de Controle

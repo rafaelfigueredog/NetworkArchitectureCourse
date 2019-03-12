@@ -1,6 +1,8 @@
 CAMADA DE APLICAÇÃO
 
     Faz a interface direta com aplicativos do transmissor e receptor
+    Atuam os protocolos de aplicanção, fornece os serviços de rede aos aplicativos
+    dos usuários. 
 
     EX. 
 

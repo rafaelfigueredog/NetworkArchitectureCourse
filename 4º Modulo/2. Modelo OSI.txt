@@ -12,9 +12,18 @@ MODELO OSI
     2 - Link de Dados 
     1 - Física
 
+    Quantas camadas tem a pilha de protocolos TCP/IP?
+        - Quatro: 
+            1) Aplicação
+            2) Transporte
+            3) Rede
+            4) Interface com a Rede
+                - Ethernet ou Wi-Fi
+
     Meio
 
-    O processo de transferencia de camada por camada, será chamado de emcapsulamento
+    O processo de transferencia de camada por camada, 
+    será chamado de emcapsulamento
 
     CLASSIFICAÇÃO
 

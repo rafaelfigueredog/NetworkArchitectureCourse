@@ -1,0 +1,23 @@
+    
+    Topologia mais usada hoje em dia
+
+    Um dispositivo concentrador conecta todos os dispositivos. 
+
+    HUB ou Switch
+
+    HUB -> Camada Física, Topologia Linear, mesmo a conexão sendo em estrela.
+    Quadros são enviados para todas as portas do HUB
+
+    Switch -> Camada de Link de Dados, 
+    Analisa os quadros e envia apenas para o destinatário correto. 
+
+    Em Resumo a topologia em estrela se clasefica em dois tipos:
+
+        HUB 
+            - Nivel Físico: estrela
+            - Nivel Lógico: Barramento
+        
+        Switch
+            - Nivel Físico: estrela
+            - Nivel Lógico: estrela 
+

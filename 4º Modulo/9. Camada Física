@@ -1,0 +1,16 @@
+Camada Física
+
+    Responsável pela demodulação e decodificação de dados.
+
+    Recebe os quadros da camada de Link de dados
+    e envia para o meio. 
+
+    Na ponta receptora haverá uma descriptografia desses dados 
+    e o processo será invertido. 
+
+    Exemplo de Equipamento de Rede que trabalha 
+    na Camada Física
+
+    HUB
+
+    

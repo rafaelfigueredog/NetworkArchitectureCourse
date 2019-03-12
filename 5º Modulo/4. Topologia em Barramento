@@ -1,0 +1,16 @@
+
+    Em Barramento ou Linear
+
+    Usa o padrão Ethernet
+
+    Todos os computadores compartilham o mesmo cabo
+
+    Vantagem: Custo mais Barato
+    Desvantagem: Apenas um computador pode enviar pacotes de dados, um por vez. 
+    se não for respeitada haverá uma colisão; 
+
+    Quanto mais computadores na rede menor o desempenho da rede
+    Problema: Contensão, quando vários computadores tentam 
+    se comunicar ao mesmo tempo ocorrendo diversas colisões.
+
+    
