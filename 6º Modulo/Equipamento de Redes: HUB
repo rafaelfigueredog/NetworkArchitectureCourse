@@ -1,0 +1,12 @@
+Hub são equipamentos concentradores 
+
+    Operam na camada fisica e opera apenas como repetidor.
+
+        Gera porblemas de desempenho e segurança
+
+        desempenho -> replica todos os dados para os dispositivos gerando colisões
+        segurança -> É possivel monitorar a rede atraves de software
+
+        É considerado um dispositivo absoleto
+
+    

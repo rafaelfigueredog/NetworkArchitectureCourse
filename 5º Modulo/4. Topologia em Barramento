@@ -10,7 +10,8 @@
     se não for respeitada haverá uma colisão; 
 
     Quanto mais computadores na rede menor o desempenho da rede
+    porque haverá maior probabilidade de colisões; 
     Problema: Contensão, quando vários computadores tentam 
     se comunicar ao mesmo tempo ocorrendo diversas colisões.
 
-    
+    Essa topologia era feita usando CABO COAXIAL

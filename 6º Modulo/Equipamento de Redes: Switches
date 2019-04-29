@@ -1,0 +1,17 @@
+São equipamentos concentradores 
+
+    - São usados para formar redes com topologia em estrela tanto no nível físico quanto no nível lógico. 
+    - Opera na camada de enlace (link) camada 2;
+    
+    Em relação ao HUB vocẽ tem uma melhoria de desempenho e segurança.
+
+    Desempenho: Sendo possivel conversas simultaneas entre diferentes computadores
+    segurança: Switches enviam os dados apenas para o computador de destino. 
+
+    Problema de Inudação: Quando um switch não reconhece o endereço de um quadro, ele 
+    replica aquele quadro para todos os computadores, quando o computador de destino recebe envia uma confirmação para o switche 
+    que por sua vez grava o endereço daquele dispositivo. 
+
+    Switches mais avançados são usados em DataCenter's 
+
+    

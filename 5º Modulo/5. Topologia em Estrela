@@ -9,15 +9,17 @@
     Quadros são enviados para todas as portas do HUB
 
     Switch -> Camada de Link de Dados, 
-    Analisa os quadros e envia apenas para o destinatário correto. 
+    Analisa os quadros e envia apenas para o destinatário correto. Mais efifiente, e seguro.
 
-    Em Resumo a topologia em estrela se clasefica em dois tipos:
+    Em Resumo a topologia em estrela se classifica em dois tipos:
 
-        HUB 
+        Fisica e Lógica 
+
+        Quando usamos um HUB 
             - Nivel Físico: estrela
             - Nivel Lógico: Barramento
         
-        Switch
+        Quando usamos um Switch
             - Nivel Físico: estrela
             - Nivel Lógico: estrela 
 
