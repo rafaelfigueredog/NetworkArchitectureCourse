@@ -1,0 +1,31 @@
+VIRTUALIZAÇÃO EM MÁQUINA
+
+    VIRTUALIZAÇÃO DE MÁQUINAS E SERVIDORES
+
+        SOFTWARE HYPERVISOR (VMWARE, VIRTUALBOX etc)
+
+            - Através desse software podemos emular várias maquinas com diferentes sistemas operacionais.
+
+
+VIRTUALIZAÇÃO DE REDES
+
+    VIRTUALIZAÇÃO INTERNA DE REDES
+
+        - Simular totalmente uma rede dentro de uma máquina. 
+        - É ideal pra usar quando temos mquinas virtuais num mesmo hospedeiro que precisam se comunicar entre si. 
+        - Simular redes e equipamentos para testar a arquiteura de redes
+
+
+    VIRTUALIZAÇÃO EXTERNA DE REDES
+
+        - É usado quando a virtualização acontece externamente ao hardware, normalmente nos equipamentos de redes
+
+        TECNICAS USADAS PARA VIRTUALIZAÇÃO EXTERNA 
+
+            - SDN (SOFTWARE DIFINED NETWORK) 
+
+                - Os equipamentos da redes podem ser reconfigurados a partir de software. 
+
+
+
+

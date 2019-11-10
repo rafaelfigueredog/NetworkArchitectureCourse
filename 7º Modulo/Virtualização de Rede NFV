@@ -1,0 +1,11 @@
+NETWORK FUNCTION VIRTUALIZATION 
+
+    Virtualização de função de rede. 
+
+        Em vez de comprar swites, roteadores, balanciadores de carga (equipamentos especificos da rede)
+        é possivel usar pequenas máquinas (servidores de aplicação) computadores que simulam um equipamento da rede
+        definindo essas funções por software e não por hardware. 
+
+        vantagens: 
+
+            Usar maquinas mais genéricas para a função que precisa; 
